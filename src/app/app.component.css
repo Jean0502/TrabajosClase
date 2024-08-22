@@ -1,0 +1,19 @@
+/* Estilos para el encabezado h1 */
+h1 {
+    font-size: 24px;
+    color: #f10000; /* Cambia el color según tus preferencias */
+}
+
+/* Estilos para los encabezados h2 */
+h2 {
+    font-size: 18px;
+    color: #353030; /* Cambia el color según tus preferencias */
+}
+
+/* Estilos para la imagen */
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 60px auto; /* Ajusta el margen según tus necesidades */
+}
